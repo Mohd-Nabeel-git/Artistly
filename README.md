@@ -8,32 +8,36 @@
 
 ## 🔗 Live Demo
 
-[Click here to view the demo](https://your-deployment-link.com)  
-*(Replace this with your actual Vercel/Netlify deployment link)*
+👉 [Visit Artistly Now](https://artistly-xeqz.vercel.app/)
 
 ---
 
 ## ✨ Features
 
-- 🔍 Browse artist profiles with card-based layouts
-- 📌 Shortlist artists and raise booking/availability requests
-- 📋 Artist Manager dashboard for managing leads
-- 💡 Clean UI/UX built with ShadCN and Tailwind
-- 📱 Fully responsive across mobile, tablet, and desktop
-- ⚡ Fast routing with Next.js App Router
-- 🗂️ Organized folder structure following best practices
+- 🔍 Browse artist profiles with card-based layouts  
+- 📌 Shortlist artists and raise booking/availability requests  
+- 📋 Artist Manager dashboard for managing leads  
+- 💡 Clean UI/UX built with ShadCN and Tailwind  
+- 📱 Fully responsive across mobile, tablet, and desktop  
+- ⚡ Fast routing with Next.js App Router  
+- 🗂️ Organized using modern frontend practices
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Next.js 14 (App Router)**
-- **JavaScript (ES6+)**
-- **ShadCN UI**
-- **Tailwind CSS**
+- **Next.js 14 (App Router)**  
+- **JavaScript (ES6+)**  
+- **ShadCN UI**  
+- **Tailwind CSS**  
 - **Mock API / Static JSON**
 
 ---
 
-## 📁 Folder Structure Overview
+## 🚀 Getting Started Locally
 
+```bash
+git clone https://github.com/your-username/artistly.git
+cd artistly
+npm install
+npm run dev
