@@ -10,6 +10,8 @@
 
 👉 [Visit Artistly Now](https://artistly-xeqz.vercel.app/)
 
+📂 [GitHub Repository](https://github.com/Mohd-Nabeel-git/Artistly)
+
 ---
 
 ## ✨ Features
@@ -37,7 +39,24 @@
 ## 🚀 Getting Started Locally
 
 ```bash
-git clone https://github.com/your-username/artistly.git
-cd artistly
+git clone https://github.com/Mohd-Nabeel-git/Artistly.git
+cd Artistly
 npm install
 npm run dev
+```
+## 🎯 Objective
+
+This project was developed as part of a frontend assignment to demonstrate:
+
+- Component-based architecture  
+- Responsive design implementation  
+- Clean UI interactions using mock data  
+- Best practices with React + Next.js frontend development
+
+---
+
+## 📌 Note
+
+- Backend functionality is **not implemented**  
+- Data is sourced from static JSON files in `public/data/`  
+- All bookings, shortlists, and dashboards are **UI demos only**
