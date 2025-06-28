@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎭 Artistly — Where Vision Turns Into Reality
 
-## Getting Started
+**Artistly.com** is a fictional performing artist booking platform built as part of a frontend development assignment. It showcases a seamless and responsive interface for connecting **Event Planners** with **Artist Managers**, allowing them to explore artists, send booking requests, and manage leads—all through a modern, UI-driven frontend.
 
-First, run the development server:
+> ⚠️ This is a static frontend demo. Backend logic and database connections are mocked using JSON files.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Demo
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+[Click here to view the demo](https://your-deployment-link.com)  
+*(Replace this with your actual Vercel/Netlify deployment link)*
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🔍 Browse artist profiles with card-based layouts
+- 📌 Shortlist artists and raise booking/availability requests
+- 📋 Artist Manager dashboard for managing leads
+- 💡 Clean UI/UX built with ShadCN and Tailwind
+- 📱 Fully responsive across mobile, tablet, and desktop
+- ⚡ Fast routing with Next.js App Router
+- 🗂️ Organized folder structure following best practices
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Next.js 14 (App Router)**
+- **JavaScript (ES6+)**
+- **ShadCN UI**
+- **Tailwind CSS**
+- **Mock API / Static JSON**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Folder Structure Overview
+
