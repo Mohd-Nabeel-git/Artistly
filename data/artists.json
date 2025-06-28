@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Aarav Sharma", "category": "Singer", "price": 500, "location": "Mumbai" },
+  { "id": 2, "name": "Priya Verma", "category": "DJ", "price": 800, "location": "Delhi" },
+  { "id": 3, "name": "Rohan Patel", "category": "Dancer", "price": 400, "location": "Bangalore" },
+  { "id": 4, "name": "Sneha Iyer", "category": "Speaker", "price": 600, "location": "Chennai" },
+  { "id": 5, "name": "Vikram Singh", "category": "Singer", "price": 700, "location": "Kolkata" }
+]
